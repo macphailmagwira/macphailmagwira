@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 An AI powered notetaking application**
-- 🌱 I'm currently learning: **📚 Exploring more efficient LLM agent workflows **
+- 🌱 I'm currently learning: **📚 Exploring more efficient LLM agent workflows**
 - 💬 Ask me about: **💡 JavaScript, Python, React, FastAPI, Node.js**
 
  **<h3 align="left">Skills</h3>**
