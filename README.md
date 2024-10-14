@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/macphail-magwira-63008288" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/macphailmagwira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/macphail_jr" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 I'm a Software Engineer, AI researcher, Startup enthusiast, co-founder, and an avid Bookworm who loves creating solutions that make a difference.</h3>**
+ **<h3 align="left">🚀 I'm a Software Engineer, AI researcher, Startup enthusiast, co-founder, and an avid Bookworm </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
